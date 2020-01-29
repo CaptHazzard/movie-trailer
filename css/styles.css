@@ -5,6 +5,35 @@
   * Outline Elements
 */
 
-* {
+/* Example: Change color of play button */
+.plyr__control--overlaid {
+  background: lightskyblue;
+}
+/* button on focus */
+.plyr--video .plyr__control:hover {
+  background: black;
+}
 
+/* Example: Change color of progress bar */
+.plyr--full-ui input[type="range"] {
+  color: lightskyblue;
+}
+
+/* Example: Change player controls */
+.plyr--video .plyr__controls {
+    color: lightskyblue;
+  font-size: 2em;
+}
+
+/* Parent container */
+main{
+  display: grid;
+  grid-template-columns: 1fr;
+
+
+}
+
+.cast {
+  display: flex;
+  flex-wrap: wrap;
 }
