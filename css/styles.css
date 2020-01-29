@@ -7,23 +7,29 @@
 
 /* Example: Change color of play button */
 .plyr__control--overlaid {
-  background: lightskyblue;
+  background: #009eff;
 }
 /* button on focus */
 .plyr--video .plyr__control:hover {
-  background: black;
+  background: orange;
 }
 
 /* Example: Change color of progress bar */
 .plyr--full-ui input[type="range"] {
-  color: lightskyblue;
+  color: #009eff;
 }
 
 /* Example: Change player controls */
 .plyr--video .plyr__controls {
-    color: lightskyblue;
+    color: #009eff;
   font-size: 2em;
 }
+
+
+/* Custom UI Controls */
+
+
+
 
 /* Parent container */
 main{
