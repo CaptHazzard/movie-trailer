@@ -1,5 +1,6 @@
 /* My Awesome Styles */
 
+
 /* Diagnostic Styling 
   * Change Background Color
   * Outline Elements
@@ -42,4 +43,13 @@ main{
 .cast {
   display: flex;
   flex-wrap: wrap;
+}
+
+div {
+  margin: 2em;
+}
+
+header {
+  text-align: center;
+  font-family: 'Bangers', cursive;
 }
