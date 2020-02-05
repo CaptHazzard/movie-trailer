@@ -40,6 +40,11 @@ main{
 
 }
 
+.info {
+  margin-left: 1.5em;
+  
+}
+
 .cast {
   display: flex;
   flex-wrap: wrap;
