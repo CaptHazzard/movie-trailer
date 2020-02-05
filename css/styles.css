@@ -45,11 +45,9 @@ main{
   flex-wrap: wrap;
 }
 
-div {
-  margin: 2em;
-}
-
 header {
   text-align: center;
   font-family: 'Bangers', cursive;
+  font-size: 3em;
+  color: orange;
 }
