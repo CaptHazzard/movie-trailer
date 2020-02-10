@@ -40,9 +40,13 @@ main{
 
 }
 
+
+
 .info {
   margin-left: 1.5em;
-  
+  font-family: 'Bangers', cursive;
+  font-size: 1em;
+  color: orange;
 }
 
 .cast {
@@ -50,10 +54,9 @@ main{
   flex-wrap: wrap;
 }
 
-header {
+ .main{
   text-align: center;
   font-family: 'Bangers', cursive;
   font-size: 3em;
   color: orange;
-  display: flex;
 }
