@@ -36,22 +36,27 @@
 main{
   display: grid;
   grid-template-columns: 1fr;
-
-
+  background: url(https://images.squarespace-cdn.com/content/5c62c09c4d546e27dc1016c7/1553388207627-ZXLR4Y6MHPEHTR82CI9S/Struzan_BTTF1_24x36_ArtPrint_3a9666f5-cc79-450c-b951-e0582831d380_1024x1024.png?format=500w&content-type=image%2Fpng);
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: 0em;
+  background-size: cover;
 }
-
-
 
 .info {
   margin-left: 1.5em;
   font-family: 'Bangers', cursive;
   font-size: 1em;
   color: orange;
+  background: black;
+  margin: 3.5em;
 }
 
 .cast {
   display: flex;
   flex-wrap: wrap;
+  color: white;
+  margin: auto;
 }
 
  .main{
@@ -59,4 +64,17 @@ main{
   font-family: 'Bangers', cursive;
   font-size: 3em;
   color: orange;
+  background: url();
 }
+
+aside {
+  margin: 3.5em;
+  color: white;
+  
+}
+
+footer  {
+  margin: 3.5em;
+  color: white;
+}
+
