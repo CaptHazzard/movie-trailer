@@ -50,14 +50,19 @@ main{
   color: orange;
   background: black;
   margin: 3.5em;
+  border-radius: 10%;
 }
 
 .cast {
   display: flex;
   flex-wrap: wrap;
-  color: white;
+  color: orange;
   margin: auto;
+  background: black;
+  border-radius: 10%;
+  
 }
+
 
  .main{
   text-align: center;
@@ -70,6 +75,7 @@ main{
 aside {
   margin: 3.5em;
   color: white;
+  font-size: large;
   
 }
 
